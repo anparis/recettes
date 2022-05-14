@@ -1,4 +1,4 @@
-Tags: Gâteau - Dessert 
+Tags: #Gâteau - #Dessert 
 
 # Banana Bread
 
