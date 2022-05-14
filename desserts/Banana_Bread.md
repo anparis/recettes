@@ -1,5 +1,3 @@
-Tags: #Gâteau - #Dessert 
-
 # Banana Bread
 
 
@@ -13,7 +11,7 @@ Tags: #Gâteau - #Dessert
    - 2 caf d'huile de coco
    - 1 caf de cannelle
    - 1 poignée de noix écrasées grossièrement
-   * Un sachet de levure chimique
+   - Un sachet de levure chimique
    - Optionnel : muesli avec pépites de chocolat
 
 
@@ -23,3 +21,8 @@ Tags: #Gâteau - #Dessert
    3. Rajouter noix, flocons d'avoine et muesli au mélange
    4. Mettre le reste de la farine pour réajuster la texture
    5. Mettre dans four préchauffé à 200C pendant 20-35 minutes
+
+
+Tags:  
+
+    #Gâteau #Dessert 
